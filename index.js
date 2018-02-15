@@ -7,7 +7,7 @@ var templates = require('./templates.js');
 const COMPONENT_TYPE = 'component';
 const PAGE_TYPE = 'page';
 
-pixela.version('0.1.0');
+pixela.version('1.0.0');
 
 //Create new project
 pixela
