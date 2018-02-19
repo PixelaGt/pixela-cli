@@ -4,27 +4,12 @@ Pixela-cli es un cliente de terminal (para GNU/Linux) para la generacion de temp
 ## Instalacion:
 ```bash
 $ npm install -g pixela-cli
-(aun sin publicar)
 ```
 
 ## Comandos:
 
 ### pixela init [nombre]
-Inicializa y crea la estructura de un proyecto basico, con la siguiente jerarquia de carpetas:
-
-  | app  |
-  | - | ---- | ----- |
-  | - | assets/ |
-  | - | components/ |
-  | - | layouts/ |
-  | - | middleware/ |
-  | - | pages/ |
-  | - | plugins/ |
-  | - | static/ |
-  | - | store/ |
-  | - | styles/ |
-  | nuxt.config.js  |  Archivo de configuracion de Nuxt.js |
-  | package.json  |  Archivo de paquetes para npm |
+Inicializa y crea la estructura de un proyecto basico.
 
 Ejemplo:
 ```bash
