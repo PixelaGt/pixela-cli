@@ -1,6 +1,6 @@
 {
   "name": "pixela-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pixela cli for generating projects with vuejs and nuxt",
   "main": "index.js",
   "scripts": {
